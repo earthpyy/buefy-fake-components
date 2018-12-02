@@ -6,6 +6,9 @@ Buefy Fake Component List (Generator) for WebStorm
 2. Copy `fakeComponents.js` in `dist` directory to your Buefy project's `src` directory
 3. Enjoy using Buefy HTML tag in WebStorm!
 
+## Latest Build
+Buefy 0.7.1
+
 ## Build project
 ### Requirements
 * Python 3.5+
