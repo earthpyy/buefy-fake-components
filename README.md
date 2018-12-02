@@ -8,7 +8,7 @@ Buefy Fake Component List (Generator) for WebStorm
 
 ## Latest Build
 **Buefy 0.7.1**
-(You can build project yourself if Buefy version has updated and I haven't update `dist/fakeComponents.js` yet)
+(You can build project yourself if Buefy version has updated)
 
 ## Build project
 ### Requirements
