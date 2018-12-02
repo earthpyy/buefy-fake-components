@@ -1,2 +1,2 @@
 # buefy-fake-components
-Buefy Fake Component List for WebStorm
+Buefy Fake Component List (Generator) for WebStorm
