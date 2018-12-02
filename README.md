@@ -7,7 +7,7 @@ Buefy Fake Component List (Generator) for WebStorm
 3. Enjoy using Buefy HTML tag in WebStorm!
 
 ## Latest Build
-**Buefy 0.7.1**
+**Buefy 0.7.1**<br>
 (You can build project yourself if Buefy version has updated)
 
 ## Build project
